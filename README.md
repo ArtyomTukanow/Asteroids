@@ -3,8 +3,9 @@
 Тестовое задание на должность Unity программиста.
 
 # Краткие сведения
-
 [Ссылка на видео](https://youtu.be/TziBbhluOw0)
+
+![](https://github.com/ArtyomTukanow/Asteroids/blob/main/ShooterScreenshot-65-04-04-22.png)
 
 Прототип составлен на версии Unity 2021.2.16
 В основу архитектуры вошел самописный ECS. 
